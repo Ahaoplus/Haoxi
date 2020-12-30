@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">毫兮</string>
+    <string name="home_tab_bar_home">首页</string>
+    <string name="home_tab_bar_dashboard">报表</string>
+    <string name="home_tab_bar_message">消息</string>
+    <string name="home_tab_bar_user">用户</string>
+</resources>
